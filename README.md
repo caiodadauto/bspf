@@ -12,4 +12,4 @@ or the complete dataset, using
 ```
 git checkout v1.0
 ```
-And, create the dataset making `dvc checkout dataset.dvc`.
+And, create the dataset making `dvc pull`.
