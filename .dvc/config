@@ -1,5 +1,5 @@
 [cache]
-    type = reflink
+    type = hardlink
 [core]
     remote = topologiesdir
 ['remote "topologiesdir"']
