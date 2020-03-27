@@ -1,2 +1,6 @@
 [cache]
     type = reflink
+[core]
+    remote = topologiesdir
+['remote "topologiesdir"']
+    url = ../topologies
